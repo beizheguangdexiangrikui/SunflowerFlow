@@ -16,6 +16,8 @@
 
 安装包 15.2 MB · Windows 10/11 x64 · 双击即装
 
+SHA256 `8a6dadbdf319e1c30909e23dff8859d8aff876ae9a04c1e8c4ce49ed39e6abac`
+
 ---
 
 ## 它能做什么
@@ -44,7 +46,7 @@
 
 **还需要一步**：装 Python 依赖（控制台完成页有「查看首次部署指引」，会打开说明文档，三步走）。
 
-不想用安装向导？也可以下 Release 里的 zip 绿色版，解压即用。
+安装包可在 Release 页面直接下载：**[Releases](https://github.com/beizheguangdexiangrikui/SunflowerFlow/releases)**
 
 ---
 
