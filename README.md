@@ -10,7 +10,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D4)
 ![Version](https://img.shields.io/badge/version-2026.11.02-e4572e)
-![Size](https://img.shields.io/badge/installer-26.7%20MB-3f7d5c)
+![Size](https://img.shields.io/badge/installer-17.2%20MB-3f7d5c)
 ![Local](https://img.shields.io/badge/data-100%25%20本地-e8b04b)
 
 ![控制台主页](docs/screenshots/console-pulse.png)
@@ -21,9 +21,9 @@
 
 **[⬇ 下载 SunflowerFlow-Setup-20261102.exe](https://github.com/beizheguangdexiangrikui/SunflowerFlow/releases/latest)**
 
-26.7 MB · Windows 10 / 11 x64 · 双击即装 · **安装时可自选盘符**
+17.2 MB · Windows 10 / 11 x64 · 双击即装 · **安装时可自选盘符**
 
-SHA256 `d46d5a49719a55050555f7bf8dca6e154d3f9c5e404d4880bc0bbc15f6feb741`
+SHA256 `43da06fc9117b69192e2d2a645ad6f04c3b0b8cb36915df21ee0daa78303ca9a`
 
 装完是一个独立目录，人格、配置、记忆、表情库全在里面，不写系统盘、不装服务。
 
